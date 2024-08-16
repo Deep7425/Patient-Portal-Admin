@@ -1,0 +1,916 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	margin: 0px;
+	padding:0;
+}
+.offer-image h4{ position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    top: 46px;
+    padding-bottom: 0;
+}
+.offer-image a{    position: relative;
+    z-index: 9999;
+    float: left;
+}
+	.offer-image {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 25px 0px;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #ef6423;
+    border-color: #ef6423;
+}
+.profiling-heading2 h2 span {
+	text-decoration: line-through;
+	color: #000;
+}
+.offer-image img {
+	width: 100px;
+	float: left;
+	padding: 8px 0px 0px 0px;
+}
+.offer-image h2 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	font-size: 35px;
+	color: #000;
+	position: absolute;
+	text-align: center;
+	left: 0px;
+	right: 0px;
+	top: 12px;
+}
+header.top-navbaar {
+	border-bottom: 1px solid #fff;
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.Patient_Portal {
+	width: 100%;
+	padding: 2% 0px;
+	float:none;
+}
+.health-text {
+	color: #ef6523;
+	font-weight: 800;
+}
+.gennie-text {
+	color: #14bef0;
+	font-weight: 800;
+}
+.profiling-section {
+	width: 23.5%;
+	float: left;
+	padding: 15px 0px;
+	margin-right: 2%;
+}
+.profiling-heading12 {
+	width: 100%;
+	float: left;
+	position:relative;
+	min-height: 640px;
+	padding: 0px 15px 15px 15px;
+	border: 2px dotted #14bef0;
+	border-radius: 6px;
+	box-shadow: 0 0px 13px #ddd;
+}
+.Patient_Portal11 {
+	width: 100%;
+	float: left;
+	padding: 0px;
+}
+.Patient_Portal11 img {
+	width: 100%;
+}
+.profiling-block {
+	width: 25%;
+	float: none;
+	padding: 15px 15px 15px 15px;
+	margin: 0px auto;
+	display: table;
+	text-align: center;
+}
+.profiling-heading {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+}
+.profiling-heading h2 {
+	width: 386px;
+	float: none;
+	padding: 15px 0px 15px 0px;
+	color: #fff;
+	margin: 0px auto;
+	line-height: 42px;
+	display: table;
+}
+.profiling-heading h2 span {
+	width: 38px;
+	height: 38px;
+	background: #fff;
+	border-radius: 50%;
+	text-align: center;
+	float: left;
+	color: #000;
+	border: 1px solid #ef6523;
+	margin-right: 10px;
+	line-height: 31px;
+}
+.profiling-heading2 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.profiling-heading2 h2 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: #222;
+	font-size: 18px;
+	text-align: left;
+	font-weight: 800;
+}
+.profiling-heading2 h4 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: #222;
+	font-size: 18px;
+	text-align: left;
+	font-weight: 800;
+}
+.profiling-heading2 span {
+	color: #000;
+	font-size: 14px;
+}
+.profiling-heading2 h2 sup {
+	text-transform: lowercase;
+	font-size: 11px;
+}
+.profiling-heading123 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.profiling-heading123 h2 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: #000;
+	font-size: 20px;
+}
+.profiling-content {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 15px;
+	background: url(img/gift-icon.png) no-repeat center 0px;
+	border-radius: 6px;
+}
+.profiling-content ul {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+}
+.profiling-content ul li {
+	width: 100%;
+	float: left;
+	padding: 3px 0px 0px 0px;
+	list-style: none;
+	font-size: 19px;
+	font-weight: 600;
+}
+.profiling-content img {
+	width: 100%;
+}
+.image-box {
+	width: 100%;
+	float: left;
+	padding: 0px 15px 15px 15px;
+}
+.image-block {
+	width: 24%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin-right: 2%;
+}
+.image-block img {
+	width: 100%;
+}
+.produt_block {
+	width: 100%;
+	float: left;
+	padding: 6px 0px 6px 0px;
+	border-bottom: 1px solid #ddd;
+}
+.produt_section {
+	width: 30%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.produt_section h2 {
+	width: 100%;
+	float: left;
+	padding: 23px 0px 0px 0px;
+	margin: 0px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #000;
+}
+.produt-mall0 {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.produt-mall0 .img-no {
+	position: relative;
+	padding-bottom: 20px;
+}
+.produt-mall0 .img-no p {
+	position: absolute;
+	bottom: 0;
+	font-size: 11px;
+	padding-bottom: 0px;
+	font-weight: 600;
+	width: auto;
+	left: 0;
+	right: 0;
+	color: #222;
+	margin: 0 auto;
+	text-align: center;
+}
+.produt-mall0 img {
+	width: 90%;
+	float: none;
+	margin: 0px auto;
+	display: table;
+}
+.produt-mall0 p {
+	width: 63%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	color: #383838;
+}
+.produt-mall0 img.img-top1 {
+	width: 40%;
+	float: none;
+	margin: 0px auto;
+	display: table;
+}
+.produt-mall0 img.img-top12 {
+	width: 70%;
+	float: none;
+	margin: 0px auto;
+	display: table;
+}
+.produt_block:last-child {
+	border-bottom: 0px;
+}
+.profiling-heading2 h2 sup {
+	top: -.6em;
+}
+.top-heading {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+.top-heading h2 span {
+	color: #ef6523;
+}
+.top-heading h2 {
+	width: 100%;
+	font-size: 30px;
+	float: left;
+	color: #14bef0;
+	padding: 15px 0px 6px 0px;
+	margin: 0;
+	font-weight: 700;
+	letter-spacing: -0.6px;
+}
+.produt-mall0 img.img-top {
+	width: 40%;
+	float: none;
+	margin: 0px auto;
+	display: table;
+}
+.img-no {
+	width: 30%;
+	float: left;
+	padding: 0px;
+}
+.banner {
+	width: 100%;
+	text-align:center;
+	float: left;
+	background: #14bef0;
+	min-height: 150px;
+	padding: 0px;
+}
+.banner img {
+	max-width: 100%;
+}
+.btn-offer span {
+	text-decoration: line-through;
+}
+.btn-offer {
+	width: 100%;
+	float: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	margin: 10px 0px;
+	background: #14bef0;
+	color: #fff;
+	padding: 5px 4%;
+}
+.row-content {
+	width: 70%;
+	float: left;
+}
+.row-content h2 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+	text-transform: capitalize;
+	font-weight: 700;
+}
+.row-content p {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	float: left;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+.flat-offer {
+	font-weight: 600
+}
+.offer {
+	color: #ef6523;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+.footer-offer {
+	background: #14bef0;
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding: 15px 0px;
+}
+.footer-offer ul {
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+}
+.footer-offer ul li {
+	display: inline;
+	margin-right: 6%;
+	font-weight: normal;
+	font-size: 14px;
+}
+.footer-offer ul li:last-child {
+	margin-right: 0px;
+}
+.footer-offer ul li strong {
+	font-weight: 500;
+}
+.footer-offer ul li a {
+	color: #fff;
+	font-weight: normal;
+}
+.Patient_Portal .container .profiling-section:last-child {
+	margin-right: 0px;
+}
+.earphone img {
+	width: 55%;
+}
+.speaker img {
+	width: 55%;
+}
+.banner-mob {
+	display: none;
+}
+.assured-gift:before {
+	content: "";
+	position: absolute;
+	top: -5px;
+	left: 0px;
+	right: 0px;
+	margin: 0 auto;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid #ef6523;
+}
+.assured-gift {
+	background: #ef6523;
+	color: #fff;
+	padding: 6px 15px;
+	border-radius: 4px;
+	text-shadow: 0 0 0;
+	font-weight: 500;
+	font-size: 11px;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	position: absolute;
+	left: 0;
+	bottom: -36px;
+}
+.profile-creation {
+	width: 100%;
+	float: left;
+	padding-bottom: 40px;
+}
+.benifit-content {
+    width: 100%;
+    float: left;
+    margin-right: 0%;
+    text-align: center;
+    margin-top: 60px;
+}
+.benifit-content h3 span {
+	color: #14bef0;
+}
+.benifit-content h3 {
+	margin: 0px;
+	padding: 20px 0;
+	font-size: 36px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	text-align: center;
+}
+.benifit-content ol {
+	margin: 0px;
+	padding: 0px;
+	list-style-position: inside;
+	width: 60%;
+	float: left;
+}
+.benifit-content ol li {
+	list-style: none;
+	float: left;
+	padding-bottom: 8px;
+	font-size: 13px;
+	font-weight: 500;
+	width: 100%;
+	float: left;
+	line-height: 25px;
+}
+.benifit-content p {
+	margin: 0px;
+	padding: 0;
+	width: 100%;
+	float: left;
+	font-size: 13px;
+	font-weight: 600;
+}
+.profile-creation .profiling-section {
+	width: 35%;
+}
+. .benifit-content h3 span {
+color:#14bef0;
+}
+.profile-creation.bottom-row .benifit-content {
+	width: 40%;
+	margin-right: 2%;
+}
+.profile-creation.bottom-row .profiling-section {
+	width: 18%;
+}
+.profile-creation.bottom-row {
+	width: 100%;
+	float: left;
+	background: #efefef;
+	padding: 40px 0;
+}
+.profile-creation.bottom-row .benifit-content {
+	margin: 0px;
+	padding: 0px;
+	width: 49%;
+	float: left;
+}
+.profile-creation.bottom-row .benifit-content h2 span {
+	color: #ef6523;
+}
+.profile-creation.bottom-row .benifit-content p {
+	padding-bottom: 40px;
+	font-size: 22px;
+}
+.profile-creation.bottom-row .benifit-content h2 {
+	margin: 0px;
+	padding: 0px 0 10px 0;
+	font-size: 25px;
+	color: #222;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	text-align: left;
+}
+.profile-creation.bottom-row .benifit-content ol {
+	width: 100%;
+	float: left;
+}
+.profile-creation.bottom-row .benifit-content ol li {
+	width: 100%;
+	color: #222;
+	float: left;
+	line-height: 17px;
+	list-style-type: square;
+	list-style-position: inside;
+}
+.profile-creation.top-row .benifit-content ol li {
+	font-size: 14px;
+}
+.offer-wrapper {
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.offer-wrapper .profiling-section {
+	width: 31%;
+	margin-top: 0px;
+}
+.offer-wrapper .profiling-section:last-child {
+	margin-right: 0px;
+}
+.offer-wrapper .profiling-section h2 {
+	font-size: 25px;
+}
+.offer-wrapper .profiling-section .row-content h2 {
+	font-size: 16px;
+}
+.button-subscribe {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	border-top-left-radius: 4px;
+	background: #ef6523;
+	border-top-right-radius: 4px;
+}
+.button-subscribe a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 15px;
+	padding: 10px 20px;
+	float: left;
+	font-weight: 500;
+}
+.button-profile {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	border-top-left-radius: 4px;
+	background: #ef6523;
+	border-top-right-radius: 4px;
+}
+.button-profile a {
+	color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 8px 10px;
+    float: left;
+    font-weight: 500;
+}
+
+body .gst {
+	font-size: 11px;
+	color: #fff;
+	text-decoration: inherit;
+}
+.button-subscribe.mobile {
+	display: none;
+}
+.Patient_Portal.wrapper-portal{ background:none; width:100%;}
+.button-subscribe.box-wrapper{     position: absolute;
+    bottom: 10px;
+    width: 70%;
+    left: 0;
+    right: 0;
+	border-radius:4px;
+    margin: 0 auto 15px auto;}
+.button-subscribe.box-wrapper a{ text-align:center; width:100%; float:left;}
+
+.button-profile.box-wrapper{ position: absolute;
+    bottom: 10px;
+    width: 53%;
+    left: 0;
+    right: 0;
+    border-radius: 4px;
+    margin: 0 auto 15px auto;}
+.button-profile.box-wrapper a{ text-align:center; width:100%; float:left;}
+
+.home.main-body-w-app .footer-offer{ text-align:left;}
+.profiling-heading12 .produt_block.last{ border:0px; margin-bottom:20px;}
+body .btn-success:hover{ background:#efefe !important; color:#14bef0 !important;}
+.navbar.navbar-default .navbar-header a {
+    padding-top: 0;
+}
+ @media only screen and (max-width: 639px) {
+	 .footer-offer ul li{ width:100%; float:left;     font-size: 12px;}
+.offer-image a{ float:none; margin:0px;}
+.button-profile.box-wrapper {
+	position: absolute;
+    bottom: 0;
+    width: 185px;
+    left: 0;
+}
+
+
+
+.button-subscribe.box-wrapper{ width:37%; bottom:10px;}
+.assured-gift{ padding:6px 20px;}
+.offer-image h4 {
+    position: absolute;
+    left: 0;
+	top:inherit;
+    right: 0;
+    width: 100%;
+    text-align: center;
+        font-size: 11px;
+    bottom: -4px;
+}
+.profile-creation.bottom-row .benifit-content ol li {
+	line-height: 17px;
+	list-style-position: initial;
+	margin: 0 0 0 16px;
+}
+.button-subscribe.mobile {
+	display: block;
+	position: inherit;
+	margin: 0 auto;
+	width: 200px;
+}
+.button-subscribe.mobile a {
+    background: #ef6523;
+    padding: 6px 12px;
+    border-radius: 3px;
+    width: 100%;
+    text-align: center;
+}
+.button-subscribe a {
+	padding: 6px 10px;
+	font-size: 14px;
+}
+.offer-wrapper .profiling-section h2 {
+	font-size: 20px;
+}
+.offer-wrapper .profiling-section {
+	width: 100%;
+}
+.profile-creation.bottom-row .benifit-content {
+	width: 100%;
+	padding-bottom: 20px;
+}
+.benifit-content h3 {
+	padding: 15px 0 0px 0;
+	font-size: 15px;
+}
+.produt-mall0 .img-no p {
+	font-size: 9px;
+}
+.profile-creation.bottom-row .benifit-content h2 {
+	font-size: 24px;
+}
+.offer-image {
+	text-align: center;
+	position: relative;
+}
+.offer-image img {
+	float: none;
+}
+.profiling-section {
+	width: 100%;
+}
+.banner {
+	display: none;
+}
+.banner-mob img {
+	width: 100%;
+	max-width: 100%;
+}
+.banner-mob {
+	display: block;
+	padding: 0;
+	width: 100%;
+	float: left;
+}
+.offer-image h2 {
+	width: 100%;
+	position: inherit;
+	font-size: 18px;
+	padding: 10px 0px;
+}
+.footer-offer-offer ul li {
+	display: inline;
+	margin-right: 6%;
+	font-size: 12px;
+	width: 100%;
+	float: left;
+	padding: 2px 0px;
+}
+}
+ @media only screen and (min-width: 640px) and (max-width: 767px) {
+.footer-offer ul li {
+    display: inline;
+    margin-right: 2%;
+    font-weight: normal;
+    font-size: 11px;
+}
+.button-profile.box-wrapper {
+    bottom: -10px;
+    width: 94%;
+}
+.button-profile.box-wrapper a {
+    width: 100%;
+	    font-size: 12px;
+    float: left;
+}
+
+.banner {
+	min-height:auto!important;
+	display:NONE;
+
+}
+
+.offer-image h4 {
+    position: absolute;
+    left: inherit;
+    right: 5%;
+    width: 65%;
+}
+.offer-wrapper .profiling-section h2 {
+	font-size: 22px;
+}
+.button-subscribe a{ padding:5px 10px;}
+.benifit-content h3 {
+	padding: 20px 0;
+	font-size: 30px;
+}
+.profiling-heading2 h4 {
+	font-size: 13px;
+}
+.row-content p {
+	font-size: 10px;
+}
+.row-content h2 {
+	font-size: 13px;
+}
+.offer {
+	font-size: 9px;
+}
+.flat-offer {
+	font-size: 10px !important;
+}
+.offer-wrapper .profiling-section .row-content h2 {
+	font-size: 12px !important;
+}
+.btn-offer {
+	font-size: 11px;
+}
+.profiling-heading2 span {
+	font-size: 11px;
+}
+.produt-mall0 .img-no p {
+	font-size: 8px;
+	line-height: 8px;
+}
+.profile-creation.bottom-row .benifit-content ol li {
+	width: 100%;
+	color: #222;
+	float: left;
+	line-height: 12px;
+	list-style-type: square;
+	font-size: 11px;
+	list-style-position: outside;
+	margin: 0 0 0 17px;
+}
+.profile-creation.bottom-row .benifit-content {
+	margin: 0px 20px 0 0;
+	width: 46%;
+}
+.profile-creation.bottom-row .benifit-content h2 {
+	font-size: 21px;
+}
+.banner-mob {
+	display: block;
+	padding: 0;
+	width: 100%;
+	float: left;
+}
+.banner-mob img {
+	width: 100%;
+	max-width: 100%;
+}
+.offer-image h2 {
+	left: inherit;
+	right: 5%;
+	width: auto;
+	font-size: 20px;
+	top: 18px;
+}
+.profiling-heading12 {
+	min-height: 525px;
+}
+.profiling-section {
+	width: 48%;
+}
+.footer-offer-offer ul li {
+	display: inline;
+	margin-right: 2%;
+	font-size: 11px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+.footer-offer ul li {
+    display: inline;
+    margin-right: 4%;
+    font-weight: normal;
+    font-size: 12px;
+}
+.button-profile.box-wrapper {
+    bottom: 10px;
+    width: 80%;
+}
+
+.banner {
+	min-height:auto!important;
+	display:none;
+}
+.offer-image h2 {
+	font-size: 20px;
+}
+.profiling-section {
+	width: 48%;
+}
+.offer-wrapper .profiling-section .row-content h2 {
+	font-size: 14px;
+}
+body .row-content p {
+	font-size: 10px;
+}
+.produt-mall0 .img-no {
+	padding-bottom: 35px;
+}
+.produt-mall0 .img-no p {
+	font-size: 10px;
+}
+.profiling-heading12 {
+	min-height: 680px;
+}
+.banner-mob img {
+	width: 100%;
+	max-width: 100%;
+}
+.footer-offer-offer ul li {
+	display: inline;
+	margin-right: 2%;
+	font-size: 12px;
+}
+.banner-mob {
+	display: block;
+	padding: 0;
+	width: 100%;
+	float: left;
+}
+}
+ @media only screen and (min-width: 1025px) and (max-width: 1200px) {
+.offer-image h2 {
+    font-size: 30px;
+}
+.button-profile.box-wrapper {
+    bottom: 10px;
+    width: 65%;
+}
+.top-heading h2 {
+	font-size: 16px;
+}
+.row-content h2 {
+	font-size: 13px;
+}
+.produt-mall0 .img-no p {
+	font-size: 9px;
+}
+.profiling-heading2 span {
+	font-size: 12px;
+}
+.offer-wrapper .profiling-section h2 {
+	font-size: 21px;
+}
+}
